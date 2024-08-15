@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/9e/0a/c8/9e0ac82bc17ff00708da6bd09593177e.gif)]
+![MasterHead](https://i.pinimg.com/originals/9e/0a/c8/9e0ac82bc17ff00708da6bd09593177e.gif)
 <h1 align="center">Hi 👋, I'm Sai Kiran</h1>
 <h3 align="center">Aspiring Data Scientist</h3>
 <img align = "right" alt = "Coding" width = "400" src = "https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
