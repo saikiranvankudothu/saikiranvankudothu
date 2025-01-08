@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Advance Data Analytics from Google**
 
-- 💬 Ask me about **Python,Machine Learning,Data Analysis**
+- 💬 Ask me about **Python,Machine Learning,Data Analysis and Full Stack Web**
 
 - 📫 How to reach me **saikiran.vankudothu2004@gmail.com**
 
