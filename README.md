@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/saikiran_26" target="blank"><img src="https://img.shields.io/twitter/follow/saikiran_26?logo=twitter&style=for-the-badge" alt="saikiran_26" /></a> </p>
 
-- 🔭 I’m currently working on **FULL STACK TRAVEL BLOG APPLICATION**
+- 🔭 I’m currently working on **PROTEIN 3D STRUCTURE PREDICTION**
 
 - 🌱 I’m currently learning **Advance Data Analytics from Google**
 
