@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Sai Kiran</h1>
-<h3 align="center">Aspiring Data Scientist</h3>
+<h3 align="center">Always curious on NN and DATA</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saikiranvankudothu&label=Profile%20views&color=0e75b6&style=flat" alt="saikiranvankudothu" /> </p>
 
